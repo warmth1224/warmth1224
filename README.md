@@ -23,15 +23,7 @@
   ⚙️ Are building a component library (the shinier, the better).
 
   🧠 Just want to geek out over performance optimizations and snack choices.
-- 📬 Reach Me Like a Pro
-
-  🌐 Portfolio: github.com/warmth1224/
-
-  ✉️ warmertouch@gmail.com
-
-  💬 Discord: @leon 🌸 software (I reply faster than GitHub Actions)
-
-  🌴 Telegram: warm snow
+  
 - ⚡ Fun Facts
 
   🌍 I've coded from 3 continents and 12 different time zones (timezone bugs are personal).
