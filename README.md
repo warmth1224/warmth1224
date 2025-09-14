@@ -2,14 +2,14 @@
   <img src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" alt="Developer Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm George Haddad</h1>
+<h1 align="center">Hi 👋, I'm Warmth</h1>
 <h3 align="center">Full Stack Developer | Technical Consultant | Systems Integration Specialist</h3>
 
 ---
 
 🎯 **About Me**
 
-I'm a Toronto-based Full Stack Developer and Technical Consultant with 9+ years of experience across software development, enterprise consulting, and IT integration. I help organizations turn complex business problems into scalable digital solutions — from web apps to cloud-native systems.
+I'm a Full Stack Developer and Technical Consultant with 9+ years of experience across software development, enterprise consulting, and IT integration. I help organizations turn complex business problems into scalable digital solutions — from web apps to cloud-native systems.
 
 🔹 Currently working with Fortune 500 clients on integration projects at **LineZero (Meta Partner)**  
 🔹 Passionate about **clean architecture**, **cloud infrastructure**, and **user-first software**  
@@ -55,7 +55,7 @@ If you'd like to see examples of specific types of work — integrations, full-s
 ---
 
 🔗 **Connect With Me**  
-[LinkedIn](https://www.linkedin.com/in/georgehaddad1997/)
+[LinkedIn](https://www.linkedin.com/in/)
 
 ---
 
