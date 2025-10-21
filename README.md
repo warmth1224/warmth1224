@@ -1,5 +1,5 @@
 <h1 align="center">Hi!</h1>
-<h3 align="center">A passionate developer creating innovative solutions for real-world problems</h3>
+<h3 align="center">A passionate software engineer creating innovative solutions for real-world problems</h3>
 
 
 <p align="center">
