@@ -44,17 +44,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=apoorvmaurya&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 </div>
-
-## 📫Connect With Me
-
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/kristen-teo-723bb4378/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 25;" />
-  </a>
-  <a href="https://github.com/Twins25/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 25;" />
-  </a>
   
   
   
