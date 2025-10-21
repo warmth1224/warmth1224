@@ -139,6 +139,8 @@
 ![Public Speaking](https://img.shields.io/badge/Public_Speaking-FF5733?logo=slides&logoColor=fff)
 ![Mentorship](https://img.shields.io/badge/Mentorship-FFD700?logo=hackclub&logoColor=000)
 
+</p>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
