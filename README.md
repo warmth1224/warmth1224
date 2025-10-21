@@ -11,6 +11,25 @@
 ## 💻 Tech Stack
 
 <p align="center">
+
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=fff)
+![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=fff)
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
